@@ -1,1 +1,5 @@
-# Powershell
+During my first time using GitHub with my PowerShell work, I created a test branch. A branch in Git is a separate copy of the repository that allows me to make changes to my code without affecting the main branch. This was useful for testing out new features or fixing bugs without impacting the stability of the main codebase.
+
+I can use the test branch to try out a new feature or make changes to my code, and then merged those changes back into the main branch once I was satisfied with the results. This time however it was just to introcude me to the controls and functions of github.
+
+Overall, my first time using GitHub with a project was a valuable learning experience that introduced me to version control and collaboration tools. It allowed me to safely make changes to my code,and share my work with the community.
